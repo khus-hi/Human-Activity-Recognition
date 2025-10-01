@@ -61,10 +61,10 @@ The project includes **rich visualizations** for:
 
 | Algorithm           | Accuracy | Notes                                   |
 | ------------------- | -------- | --------------------------------------- |
-| Logistic Regression | TBD      | Baseline linear model                   |
-| Random Forest       | TBD      | Ensemble method, improved accuracy      |
-| SVM                 | TBD      | Effective for high-dimensional features |
-| Decision Tree       | TBD      | Simple interpretable model              |
+| Logistic Regression | 95.49%      | Baseline linear model                   |
+| Random Forest       | 91.99%      | Ensemble method, improved accuracy      |
+| SVM                 | 96.59%      | Effective for high-dimensional features |
+| Decision Tree       | 84.88%      | Simple interpretable model              |
 
 **Visualization Highlights:**
 
