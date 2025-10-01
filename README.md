@@ -78,5 +78,3 @@ The project includes **rich visualizations** for:
 * Integrate **deep learning models** (LSTM/CNN) for sequential sensor data.
 * Implement **real-time HAR applications** on smartphones.
 * Enhance feature engineering and visualization dashboards for better insights.
-
-If you want, I can also **create a concise, LinkedIn Featured Section version** that highlights both **ML modeling and rich visualizations** in under **450 characters** for maximum recruiter impact. Do you want me to do that?
